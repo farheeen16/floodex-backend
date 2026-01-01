@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+torch
+torchvision
+numpy
+rasterio
+opencv-python-headless
+python-multipart
